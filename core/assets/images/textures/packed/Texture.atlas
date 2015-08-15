@@ -1,0 +1,62 @@
+
+Texture.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Button
+  rotate: false
+  xy: 2, 27
+  size: 293, 43
+  orig: 293, 43
+  offset: 0, 0
+  index: -1
+Fedora
+  rotate: false
+  xy: 822, 150
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 553
+  size: 681, 403
+  orig: 681, 403
+  offset: 0, 0
+  index: -1
+RuruchianProductions
+  rotate: false
+  xy: 484, 2
+  size: 336, 280
+  orig: 336, 280
+  offset: 0, 0
+  index: -1
+arrow-down
+  rotate: false
+  xy: 944, 925
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+arrow-up
+  rotate: false
+  xy: 484, 520
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+holycow
+  rotate: false
+  xy: 2, 72
+  size: 480, 479
+  orig: 480, 479
+  offset: 0, 0
+  index: -1
+holymoly
+  rotate: false
+  xy: 685, 284
+  size: 257, 672
+  orig: 257, 672
+  offset: 0, 0
+  index: -1
