@@ -31,7 +31,7 @@
         default: { file: images/fonts/pixFont.fnt },
     }, 
     com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
-        frame: {name:Frame, color:white}
+        frame: {name:Frame, color:white},
         arrow-up: { name:arrow-up, color: yellow},
         arrow-up-pressed: { name:arrow-up, color: dark-yellow},
         arrow-down: { name:arrow-down, color: yellow},
@@ -44,6 +44,12 @@
         holy-moly :{name:holymoly, color:white},
         fedora :{name:Fedora, color:gray},
         fedora-down :{name:Fedora, color:dark-gray},
+        character1 :{name: character1, color:white},
+        character2 :{name: character2, color:white},
+        character3 :{name: character3, color:white},
+        character4 :{name: character4, color:white},
+        character5 :{name: character5, color:white},
+        character6 :{name: character6, color:white},
     },
     com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle:{
     	default: { 	up: button, 
@@ -85,5 +91,6 @@
 	},
 	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
     	default: { font: default, fontColor: white},
+    	blue-label: { font: default, fontColor: dark-blue},
 	},
 }
